@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font: 900;
+    font-size: 24px;
+}
+b{
+    font: 700;
+    font-size: 12px;
+}
+p{
+    font-size: 16px;
+}
